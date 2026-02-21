@@ -33,4 +33,18 @@ API REST robusta desenvolvida para simular o funcionamento de um fórum de discu
    ```properties
    spring.datasource.username=seu_usuario
    spring.datasource.password=sua_senha
+
+## 🚀 Como Executar a Aplicação
+
+### Via IntelliJ IDEA (Recomendado)
+1. Abra o projeto no **IntelliJ**.
+2. Aguarde o **Maven** baixar todas as dependências.
+3. Localize o arquivo `ForumHubApplication.java` em `src/main/java/alura_challenge/forum_hub/`.
+4. Clique com o botão direito no arquivo e selecione **Run 'ForumHubApplication'**.
+
+### Via Terminal
+1. Navegue até a pasta raiz do projeto.
+2. Execute o comando:
+```bash
+./mvnw spring-boot:run
    
