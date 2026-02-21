@@ -1,7 +1,3 @@
-Aqui está o texto completo formatado corretamente em **Markdown**, corrigindo as quebras de código e organizando as tabelas e seções:
-
----
-
 # Fórum Hub - Challenge Alura 🚀
 
 O **Fórum Hub** é uma API REST desenvolvida em Java com Spring Boot para gerenciar um fórum de discussões. O objetivo principal é replicar as funcionalidades de back-end de um fórum, permitindo que usuários postem dúvidas sobre cursos e interajam de forma organizada e segura.
